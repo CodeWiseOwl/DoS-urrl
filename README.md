@@ -21,5 +21,5 @@ Use responsibly and only for educational purposes.
 
 ## Credits
 
-CodeWiseOwl
+CodeWiseOwl and ChatGPT 
 
