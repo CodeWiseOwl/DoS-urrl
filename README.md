@@ -17,9 +17,6 @@ Only for educational chaos, never for malicious purposes.
 
 ⚠️ Warning: This script is chaotic and may cause damage.
 Developer is not responsible for any consequences.
-Use responsibly and only for educational purposes.
+Use responsibly and only for educational/academic purposes.
 
-## Credits
-
-CodeWiseOwl and ChatGPT 
 
