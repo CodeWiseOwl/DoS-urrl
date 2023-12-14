@@ -16,7 +16,6 @@ Only for educational chaos, never for malicious purposes.
 ## Disclaimer
 
 ⚠️ Warning: This script is chaotic and may cause damage.
-Developer is not responsible for any consequences.
-Use responsibly and only for educational/academic purposes.
-
+Use responsibly and only for educational.
+Devloper of this code is not responsible for any malicious activities.
 
