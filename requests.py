@@ -2,8 +2,7 @@ import requests
 from multiprocessing import Process
 
 def send_request():
-    target_ip = "127.0.0.1"  # Replace with the target IP address or you can replace it with a website url also
-
+    target_ip = "127.0.0.1"  # Replace with the target IP address or you can replace it with a website url (which you own)
     while True:
         try:
             response = requests.get(f"http://{target_ip}")
