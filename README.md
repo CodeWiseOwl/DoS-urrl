@@ -1,4 +1,4 @@
-# DDoS Chaos Script
+## Request-infinity
 
 ## Description
 
