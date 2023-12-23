@@ -9,9 +9,11 @@ Only for educational chaos, never for malicious purposes.
 
 1. Replace the `target_ip` variable with the desired target IP address.
 
-2. Adjust the number of processes in the script to your liking.
+2. or when you put a website url just remove http:// or https:// from original url just put something like example.com
 
-3. Execute the script and witness chaos unfold.
+3. Adjust the number of processes in the script to your liking.
+
+4. Execute the script and witness chaos unfold.
 
 ## Disclaimer
 
