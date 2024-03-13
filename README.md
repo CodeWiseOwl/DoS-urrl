@@ -2,15 +2,13 @@
 
 ## Description
 
-This Python script unleashes chaos upon a target server, flooding it with requests until it potentially becomes unresponsive. 
-Only for educational chaos, never for malicious purposes devloper of the code is not responsible for any type of malicious attack.
-Use responsibly and only for educational purposes such as stress testing your system.
+This Python script unleashes chaos upon a target server, flooding it with HTTP requests until it potentially becomes unresponsive or you stop it.
 
 ## Usage
 
-1. Replace the `target_ip` variable with the desired target IP address.
+1. Replace the `target_url` variable with the desired target url address.
 
-2. or when you put a website url just remove http:// or https:// from original url just put something like example.com
+2. when you put a website url just remove http:// or https:// from original url just put something like example.com
 
 3. Adjust the number of processes in the script to your liking.
 
